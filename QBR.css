@@ -16,19 +16,10 @@ body {
 	  width: 216mm;
 	  min-height: 279mm;
 	  padding: 0mm;
-	  margin: 10mm auto;
-	  /* border: 1px #D3D3D3 solid; */
+	  margin: 0mm;
 	  border-radius: 5px;
 	  background: white;
-	  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
  }
- .subpage {
-	  padding: 1cm;
-	  border: 5px #ccc solid;
-	  height: 257mm;
-	  outline: 2cm whitesmoke solid;
- }
-
  @page {
 	  size: Letter;
 	  margin: 0;
