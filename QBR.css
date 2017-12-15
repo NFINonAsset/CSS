@@ -89,8 +89,6 @@ h6{ font-size: 1.425rem }
     border: 0.5px rgb(224, 232, 242) solid;
     border-radius: 4px;
     font-size: 1.8rem;
-    padding-left: 3px;
-    padding-right: 3px;
 }
 
 .toc li {
@@ -103,5 +101,4 @@ h6{ font-size: 1.425rem }
   font-size: 1.7rem;
   box-shadow: rgb(240, 240, 240) 5px 5px 5px 0px;
   border: thin solid rgb(240, 240, 240);
-  margin-bottom: 100px;
 }
