@@ -126,3 +126,22 @@ h6{ font-size: 1.425rem }
     display: none;
   }
 }
+@media (min-width: 750px) {
+
+  .container-width {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .toc-chapters {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 900px) {
+   .container-width {
+     width: 80%;
+     max-width: 960px;
+  }
+}
