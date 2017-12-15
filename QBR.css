@@ -111,13 +111,7 @@ h6{ font-size: 1.425rem }
 }
 
 @media (min-width: 0px) {
-  .content {
-     margin-left: 20px;
-     margin-right: 20px;
-     margin-top: 20px;
-     margin-bottom: 40px;
-  }
-
+	
   .container-width {
     width: 100%;
     margin-left: auto;
@@ -131,8 +125,4 @@ h6{ font-size: 1.425rem }
   .header .links {
     display: none;
   }
-}
-
-._dash-undo-redo {
-  display: none;
 }
